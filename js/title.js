@@ -31,7 +31,7 @@ var titleText = [ "|",
 					"Z I D A R U . |",
 					"Z I D A R U . X Y Z|",
 					"Z I D A R U  . X Y Z |",
-					"Z I D A R U . X Y Z |"];
+					"Z I D A R U . X Y Z|"];
 
 function loop(){
 
